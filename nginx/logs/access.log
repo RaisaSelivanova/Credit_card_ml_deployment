@@ -1,0 +1,2 @@
+172.18.0.1 - - [12/Jun/2026:08:11:29 +0000] "GET /health HTTP/1.1" 200 126 "-" "Mozilla/5.0 (Windows NT; Windows NT 10.0; ru-RU) WindowsPowerShell/5.1.26100.8457" "-"
+172.18.0.1 - - [12/Jun/2026:08:11:38 +0000] "POST /predict HTTP/1.1" 200 94 "-" "Mozilla/5.0 (Windows NT; Windows NT 10.0; ru-RU) WindowsPowerShell/5.1.26100.8457" "-"
