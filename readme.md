@@ -31,7 +31,7 @@
 ## Локальный запуск
 1. Клонируйте репозиторий: в терминале (bash) введите команды
    
-   git clone https://github.com/raisas/credit-card-ml-deployment.git
+   git clone https://github.com/RaisaSelivanova/Credit_card_ml_deployment.git
    cd credit-card-ml-deployment
 
 2. Создайте и активируйте виртуальное окружение:
